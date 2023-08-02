@@ -10,7 +10,6 @@ import {
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 import * as basicLightbox from 'basiclightbox';
-// import 'basicLightbox/dist/basicLightbox.min.css';
 
 let instance;
 const elems = {
